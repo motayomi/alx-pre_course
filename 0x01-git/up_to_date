@@ -1,1 +1,1 @@
-mkdir_up_to_date
+mkdir_up_to_date "git pull"
